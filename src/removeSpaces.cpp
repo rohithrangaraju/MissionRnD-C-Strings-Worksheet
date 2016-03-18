@@ -30,5 +30,4 @@ char removeSpaces(char *str) {
 
 	}
 	str[j] = '\0';
-
 }
